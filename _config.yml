@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Yan Ai # add your name
-author-img: yan.JPG # add your photo
+author-img: ![](/assets/img/yan.JPG) # add your photo
 about-author: I am a 1st year PhD student at Florida State University. 
 My advisor is Xifeng Gao and my research interest lies with animation. # add description
 social-twitter: # add your Twitter handle
