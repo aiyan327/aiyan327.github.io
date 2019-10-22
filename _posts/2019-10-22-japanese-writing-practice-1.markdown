@@ -3,7 +3,7 @@ layout: post
 title: Japanese writing practice No.1
 date: 2019-10-22 14:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: two-cats.jpg # Add image post (optional)
+img: two-cat.jpg # Add image post (optional)
 tags: [日本語, cats] # add tag
 ---
 
@@ -15,7 +15,7 @@ tags: [日本語, cats] # add tag
 
 しかし、私の猫とルームメイトの猫は最近全部太っています。理由は不明です。
 
-![fat cat]({{site.baseurl}}/assets/img/chi-so.jpg)
+![fat cat]({{site.baseurl}}/assets/img/chi-so.jpg | width=200)
 
 ある日、私は台所に朝ご飯を食べていた時にルームメイトは猫に食べさせました。
 
