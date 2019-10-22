@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Some Annoying Problems in Setting Up My Blog
+title: Problems with Github Pages
 date: 2019-10-22 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: i-rest.jpg # Add image post (optional)
+img: github-pages.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Github Pages, YAML]
 ---
@@ -14,7 +14,7 @@ After I forked the Jekyll theme from its repository, my website came out but onl
 
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 
-## Pictures not showing
+## Profile picture not showing
 After editing the author name and blahblah in my own config.yml, the next thing I tried was to change the profile picture. I added my picture into the "/assets/img" file and changed the author-img (obviously). Then after refreshing the page, there was no picture showing at all.
 
 Then I tried to include the file path ahead of the image file. Still not working.
