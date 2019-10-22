@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Japanese writing practice #1
+title: Japanese writing practice No.1
 date: 2019-10-22 14:00:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: two-cats.jpg # Add image post (optional)
