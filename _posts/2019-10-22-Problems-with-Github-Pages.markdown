@@ -12,7 +12,6 @@ There are countless articles on instructions of using Github Pages, Jekyll, etc.
 ## Baseurl
 After I forked the Jekyll theme from its repository, my website came out but only with text in blue and white. If you have met this problem too, open your _config.yml file. Find the line of "baseurl:" and add "/(your user name).github.io" to it. Save the change and it should work fine afterwards.
 
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
 
 ## Profile picture not showing
 After editing the author name and blahblah in my own config.yml, the next thing I tried was to change the profile picture. I added my picture into the "/assets/img" file and changed the author-img (obviously). Then after refreshing the page, there was no picture showing at all.
