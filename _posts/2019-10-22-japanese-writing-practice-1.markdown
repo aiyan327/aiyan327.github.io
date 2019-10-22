@@ -15,7 +15,7 @@ tags: [日本語, cats] # add tag
 
 しかし、私の猫とルームメイトの猫は最近全部太っています。理由は不明です。
 
-<img src="chi-so.jpg" alt="chunky" width="200"/>
+![chunky]({{site.baseurl}}/assets/img/chi-so.jpg)
 
 ある日、私は台所に朝ご飯を食べていた時にルームメイトは猫に食べさせました。
 
