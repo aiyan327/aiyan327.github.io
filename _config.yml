@@ -37,4 +37,6 @@ paginate_path: "/page/:num"
 
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
 
+encoding: UTF-8
+
 theme: jekyll-theme-midnight
